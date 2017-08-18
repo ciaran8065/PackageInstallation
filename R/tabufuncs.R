@@ -1023,5 +1023,3 @@ tabuObj<-R6Class("tabuObj",
                    
                  )
 )
-library(tabuSearch2)
-?tabuObj
